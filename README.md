@@ -12,6 +12,12 @@ Jenkins, etc.
 From your pipeline you just need to have the [latest release](https://github.com/mijailr/swaggergo/releases) on the `$PATH` of the
 runner or agent.
 
+You can download the precompiled version:
+
+```shell script
+wget https://github.com/mijailr/swaggergo/releases/latest/download/swaggergo
+```
+
 ### Simple usage:
 
 ```shell script
